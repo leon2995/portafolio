@@ -1,0 +1,22 @@
+#todo {
+    background-color: black;
+}
+
+#titulo{
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+
+}
+#leo{
+color: white;
+text-align: center;
+margin-top: 50px;
+margin-left: 20%;
+margin-right: 20%;
+}
+
+#foto{
+    width: 250px;
+    height: 250px;
+}
